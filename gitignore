@@ -1,0 +1,19 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Python (if used for scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+
+# Markdown/JSON
+*.md.swp
+
+# Local config
+.env
+config.yaml
